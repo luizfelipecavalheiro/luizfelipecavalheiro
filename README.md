@@ -2,7 +2,7 @@
 
 <div>
 🏠 Santa Maria-RS. <br>
-👨‍🎓 Ciência da Computação (UFSM). <br><br>
+👨‍🎓 Ciência da Computação - UFSM. <br><br>
 👋 Olá dev, tudo bem com você? Seja bem-vindo ao meu Github!!!
 </div>
 
