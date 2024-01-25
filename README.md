@@ -1,9 +1,11 @@
-## 👋 Fala Dev, tudo bem com você? Seja bem-vindo ao meu Github!!!
+# Luiz Felipe Cavalheiro
 
+### 👋 Fala Dev, tudo bem com você? Seja bem-vindo ao meu Github!!!
+---
 👨 Meu nome é Luiz Felipe, tenho 23 anos e resido na cidade de Santa Maria-RS. <br>
 👨‍🎓 Atualmente estou cursando Ciência da Computação na Universidade Federal de Santa Maria (UFSM). <br><br>
 
-### Tecnologias e Ferramentas:
+### 🖥️ Tecnologias e Ferramentas:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
@@ -15,7 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>          
 </div> <br>
           
-### Estou aprendendo 👨‍💻:
+### 👨‍💻 Estou aprendendo:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
